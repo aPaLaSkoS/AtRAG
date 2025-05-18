@@ -27,7 +27,9 @@ uv venv .venv && source .venv/bin/activate
 uv sync
 ```
 
-5. Since this is a Python Notebook (and not a Python script), you will need to have have installed something like the following:
+5. Create your [Groq](https://groq.com/groqcloud/) and/or [OpenAI](https://platform.openai.com) API keys and store them in the `.env` file in the root directory of the repository.
+
+6. Since this is a Python Notebook (and not a Python script), you will need to have have installed something like the following:
 
    *  [Jupyter](https://jupyter.org/)
 
@@ -35,4 +37,4 @@ uv sync
 
    *  or if using the VS Code IDE, the [Jupyter Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-6. Run the **rag.ipynb** file based on the comments in the notebook.
+7. Run the **rag.ipynb** file based on the comments in the notebook.
