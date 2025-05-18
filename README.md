@@ -15,7 +15,7 @@ git clone https://github.com/JohnTanAI/Long-AtR-Guide.git
 
 and then navigate to the cloned repository directory.
 
-2. (Recommended) Install the ***uv** python project and package manager following the instructions [here](https://docs.astral.sh/uv/getting-started/installation/)
+2. (Recommended) Install the **uv** python project and package manager following the instructions [here](https://docs.astral.sh/uv/getting-started/installation/)
 
 3. Create a virtual environment and activate it:
 ```bash
