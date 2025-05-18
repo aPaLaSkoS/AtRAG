@@ -1,0 +1,13 @@
+{
+  "hybrid": {
+    "0db4dffdd43d001b29298d213bc773f1": {
+      "return": "{\"high_level_keywords\": [\"Spiritual pitfalls\", \"Self-realization\", \"Personal growth\"], \"low_level_keywords\": [\"Ego inflation\", \"Spiritual materialism\", \"Emotional imbalance\", \"Self-awareness practices\", \"Mindfulness\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the most common pitfalls for someone who has realized I AM, and how can they avoid them?"
+    }
+  }
+}
